@@ -1,0 +1,30 @@
+Jun  5 14:56:09 ZhangXideMacBook-Pro syslogd[112]: This is test log L1
+Jun  5 15:07:25 ZhangXideMacBook-Pro syslogd[112]: This is test log L2
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L3
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L4 with keyword
+Jun  5 14:56:09 ZhangXideMacBook-Pro syslogd[112]: This is test log L5
+Jun  5 15:07:25 ZhangXideMacBook-Pro syslogd[112]: This is test log L6 with keyword
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L7
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L8
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L9
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L10
+Jun  5 14:56:09 ZhangXideMacBook-Pro syslogd[112]: This is test log L11
+Jun  5 15:07:25 ZhangXideMacBook-Pro syslogd[112]: This is test log L12
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L13
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L14
+Jun  5 14:56:09 ZhangXideMacBook-Pro syslogd[112]: This is test log L15
+Jun  5 15:07:25 ZhangXideMacBook-Pro syslogd[112]: This is test log L16
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L17
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L18
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L19 with keyword
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L20
+Jun  5 14:56:09 ZhangXideMacBook-Pro syslogd[112]: This is test log L21
+Jun  5 15:07:25 ZhangXideMacBook-Pro syslogd[112]: This is test log L22
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L23 with keyword
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L24
+Jun  5 14:56:09 ZhangXideMacBook-Pro syslogd[112]: This is test log L25
+Jun  5 15:07:25 ZhangXideMacBook-Pro syslogd[112]: This is test log L26 with keyword
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L27
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L28
+Jun  5 15:19:52 ZhangXideMacBook-Pro syslogd[112]: This is test log L29
+Jun  5 15:30:50 ZhangXideMacBook-Pro syslogd[112]: This is test log L30
