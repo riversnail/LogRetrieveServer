@@ -1,6 +1,6 @@
 import express from 'express';
 import { PORT } from './constants';
-import router from './router'
+import router from './router';
 
 const app = express();
 app.use('/', router);
