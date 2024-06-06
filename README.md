@@ -11,9 +11,11 @@ Since we need to be able to read large log files effeciently, instead of read th
 The log retriever opens the file, read a chunk of data into a buffer from the bottom of the file(buffer size is configurable in src/constants.ts). Then the log retriever process the data from the buffer backwards to build log entries with newline character as eliminator. Continue reading from the log file to get the next buffer after finished processing the current buffer. Stop processing and return the data if it reachs to the n number of entries that user specified or the whole log file has been processed.
 
 ## How to run the service
-Step 1: Compile the TypeScript code.\
+Step 1: Install all the dependencies.\
+`npm install`\
+Step 2: Compile the TypeScript code.\
 `npm run build`\
-Step 2: Run the service.\
+Step 3: Run the service.\
 `npm start`
 ## How to use the service
 The service is running on port 3000.\
